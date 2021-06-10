@@ -1,0 +1,46 @@
+body {
+    
+/ Centralizar Textos /
+
+test-align: center;
+
+/ Imagem de Fundo /
+background-image: url(https://bit.ly/3g7ht7X);
+
+/ Remover Repetição /
+background-repeat: no-repeat;
+
+/ Posicionamento/ 
+background-position: center; 
+
+/ Altura do Body /
+height: 100;
+
+/ Cor de fundo /
+background-color: black;
+
+} 
+
+/ Personalizar o Título /
+h1 {
+    color: #ff0000;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/ Personalizar Sub Título/
+
+#green {
+    color: #00ff00;
+    font-style: italic;
+}
+
+#blue {
+    color: #0000ff;
+    font-weight: bold;
+}
+
+.colors {
+color: #ff4400
+font-size: 24px;
+
+}
